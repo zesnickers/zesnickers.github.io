@@ -1,0 +1,33 @@
+UNKNOWN {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial, helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: arial, helvetica, sans-serif
+}
+.text {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textlight {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: arial, helvetica, sans-serif
+}
+.header2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial, helvetica, sans-serif
+}
+.header3 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial, helvetica, sans-serif
+}
+A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; CURSOR: hand; COLOR: #6495ed; FONT-FAMILY: arial, helvetica, sans-serif
+}
